@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="VLC.3g2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp" ProgId="VLC.3gp" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp2" ProgId="VLC.3gp2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gpp" ProgId="VLC.3gpp" ApplicationName="VLC media player" />
+  <Association Identifier=".aac" ProgId="VLC.aac" ApplicationName="VLC media player" />
+  <Association Identifier=".ac3" ProgId="VLC.ac3" ApplicationName="VLC media player" />
+  <Association Identifier=".adt" ProgId="VLC.adt" ApplicationName="VLC media player" />
+  <Association Identifier=".adts" ProgId="VLC.adts" ApplicationName="VLC media player" />
+  <Association Identifier=".amr" ProgId="VLC.amr" ApplicationName="VLC media player" />
+  <Association Identifier=".arw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="VLC.asf" ApplicationName="VLC media player" />
+  <Association Identifier=".avi" ProgId="VLC.avi" ApplicationName="VLC media player" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".cab" ProgId="CABFolder" ApplicationName="Windows Explorer" />
+  <Association Identifier=".cr2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".divx" ProgId="VLC.divx" ApplicationName="VLC media player" />
+  <Association Identifier=".dng" ProgId="AppXvvwq6wxamf7qhxd0vn6wm1wwehyxrdd6" ApplicationName="Photos" />
+  <Association Identifier=".ec3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Media Player" />
+  <Association Identifier=".emf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".erf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".flac" ProgId="VLC.flac" ApplicationName="VLC media player" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".heic" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".htm" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".html" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".ico" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".inf" ProgId="AppXzwr976v2e060wada4gabrk1x69h2dbwy" ApplicationName="Notepad" />
+  <Association Identifier=".ini" ProgId="AppXhk4des8gf2xat3wtyzc5q06ny78jhkqx" ApplicationName="Notepad" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".kdc" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".log" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".m1v" ProgId="VLC.m1v" ApplicationName="VLC media player" />
+  <Association Identifier=".m2t" ProgId="VLC.m2t" ApplicationName="VLC media player" />
+  <Association Identifier=".m2ts" ProgId="VLC.m2ts" ApplicationName="VLC media player" />
+  <Association Identifier=".m2v" ProgId="VLC.m2v" ApplicationName="VLC media player" />
+  <Association Identifier=".m3u" ProgId="VLC.m3u" ApplicationName="VLC media player" />
+  <Association Identifier=".m4a" ProgId="VLC.m4a" ApplicationName="VLC media player" />
+  <Association Identifier=".m4r" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Media Player" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mht" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mhtml" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mka" ProgId="VLC.mka" ApplicationName="VLC media player" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv" ApplicationName="VLC media player" />
+  <Association Identifier=".mod" ProgId="VLC.mod" ApplicationName="VLC media player" />
+  <Association Identifier=".mov" ProgId="VLC.mov" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2" ProgId="VLC.mp2" ApplicationName="VLC media player" />
+  <Association Identifier=".mp2v" ProgId="VLC.mp2v" ApplicationName="VLC media player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="VLC.mp4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mpa" ProgId="VLC.mpa" ApplicationName="VLC media player" />
+  <Association Identifier=".MPE" ProgId="VLC.mpe" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg" ProgId="VLC.mpeg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg1" ProgId="VLC.mpeg1" ApplicationName="VLC media player" />
+  <Association Identifier=".mpg" ProgId="VLC.mpg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpv2" ProgId="VLC.mpv2" ApplicationName="VLC media player" />
+  <Association Identifier=".mrw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="VLC.mts" ApplicationName="VLC media player" />
+  <Association Identifier=".nef" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".oga" ProgId="VLC.oga" ApplicationName="VLC media player" />
+  <Association Identifier=".ogg" ProgId="VLC.ogg" ApplicationName="VLC media player" />
+  <Association Identifier=".ogm" ProgId="VLC.ogm" ApplicationName="VLC media player" />
+  <Association Identifier=".ogv" ProgId="VLC.ogv" ApplicationName="VLC media player" />
+  <Association Identifier=".ogx" ProgId="VLC.ogx" ApplicationName="VLC media player" />
+  <Association Identifier=".opus" ProgId="VLC.opus" ApplicationName="VLC media player" />
+  <Association Identifier=".orf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader" />
+  <Association Identifier=".pef" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ps1" ProgId="AppXxf01pj590w7z9mxmyv3nx0a9ewj3e51g" ApplicationName="Notepad" />
+  <Association Identifier=".psd1" ProgId="AppXc9vj55m1n3559gcjff0scsqeket80zp7" ApplicationName="Notepad" />
+  <Association Identifier=".psm1" ProgId="AppX1b0e9ytcwx0wcmvkdey0h6af04t1ta3z" ApplicationName="Notepad" />
+  <Association Identifier=".raf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".raw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".rle" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".rw2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".scp" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".sr2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".svg" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Windows Photo Viewer" />
+  <Association Identifier=".tod" ProgId="VLC.tod" ApplicationName="VLC media player" />
+  <Association Identifier=".TS" ProgId="VLC.ts" ApplicationName="VLC media player" />
+  <Association Identifier=".TTS" ProgId="VLC.tts" ApplicationName="VLC media player" />
+  <Association Identifier=".txt" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="InternetShortcut" ApplicationName="Internet Browser" />
+  <Association Identifier=".wav" ProgId="VLC.wav" ApplicationName="VLC media player" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".webm" ProgId="VLC.webm" ApplicationName="VLC media player" />
+  <Association Identifier=".wm" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Media Player" />
+  <Association Identifier=".wma" ProgId="VLC.wma" ApplicationName="VLC media player" />
+  <Association Identifier=".wmf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".wmv" ProgId="VLC.wmv" ApplicationName="VLC media player" />
+  <Association Identifier=".WPL" ProgId="VLC.wpl" ApplicationName="VLC media player" />
+  <Association Identifier=".wtx" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Notepad" />
+  <Association Identifier=".xht" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xhtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xvid" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Media Player" />
+  <Association Identifier=".zip" ProgId="CompressedFolder" ApplicationName="Windows Explorer" />
+  <Association Identifier=".zpl" ProgId="VLC.zpl" ApplicationName="VLC media player" />
+  <Association Identifier="ftp" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-screenclip" ProgId="AppXbemgape21yns3k5pd4ah40jz06yq6xrk" ApplicationName="Screen Snipping" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mswindowsmusic" ProgId="AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy" ApplicationName="Media Player" />
+  <Association Identifier="read" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+</DefaultAssociations>

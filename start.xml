@@ -1,1 +1,16 @@
-{"pinnedList":[{"desktopAppLink":"C:\\CustomTools\\Shortcuts\\Microsoft Edge.lnk"},{"desktopAppLink":"C:\\CustomTools\\Shortcuts\\VLC Player.lnk"}]}
+<LayoutModificationTemplate xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification" Version="1">
+  <LayoutOptions StartTileGroupCellWidth="6" />
+  <DefaultLayoutOverride>
+    <StartLayoutCollection>
+      <defaultlayout:StartLayout GroupCellWidth="6" xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/DefaultLayout">
+        <defaultlayout:Group Name="Group1">
+          <defaultlayout:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\YourApp.lnk" />
+          <defaultlayout:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\AnotherApp.lnk" />
+        </defaultlayout:Group>
+        <defaultlayout:Group Name="Group2">
+          <defaultlayout:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\YetAnotherApp.lnk" />
+        </defaultlayout:Group>
+      </defaultlayout:StartLayout>
+    </StartLayoutCollection>
+  </DefaultLayoutOverride>
+</LayoutModificationTemplate>
